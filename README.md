@@ -1,5 +1,7 @@
 # lt_robot
 
+First please modify the `LT_USERNAME` and the `LT_ACCESS_KEY` in base.py to your private data.
+
 Start local test
 
     robot -i local -r results tests
